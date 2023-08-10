@@ -6,9 +6,6 @@
     <board-manifest dependency-url="https://github.com/cj-follett/MyManifests/custom-bt-bsp-dependencies-manifest.xml">
       <uri>https://github.com/cj-follett/MyManifests/custom-mtb-bt-bsp-manifest-fv2.xml</uri>
     </board-manifest>
-    <board-manifest dependency-url="https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-dependencies-manifest.xml">
-      <uri>https://github.com/RutronikSystemSolutions/rutronik-bsp-manifest/raw/main/rutronik-bsp-manifest-fv2.xml</uri>
-    </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
     <app-manifest>
