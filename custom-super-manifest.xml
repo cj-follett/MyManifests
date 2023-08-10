@@ -1,7 +1,7 @@
 <super-manifest version="2.0">
   <board-manifest-list>
     <board-manifest dependency-url="https://github.com/cj-follett/MyManifests/custom-bt-bsp-dependencies-manifest.xml">
-      <uri> file:https://github.com/cj-follett/MyManifests/custom-mtb-bt-bsp-manifest-fv2.xml</uri>
+      <uri>https://github.com/cj-follett/MyManifests/custom-mtb-bt-bsp-manifest-fv2.xml</uri>
     </board-manifest>
   </board-manifest-list>
   <app-manifest-list>
