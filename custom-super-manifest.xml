@@ -1,0 +1,17 @@
+<super-manifest version="2.0">
+  <board-manifest-list>
+    <board-manifest dependency-url="file:///c:/MyManifests/custom-bt-bsp-dependencies-manifest.xml">
+      <uri> file:///c:/MyManifests/custom-mtb-bt-bsp-manifest-fv2.xml</uri>
+    </board-manifest>
+  </board-manifest-list>
+  <app-manifest-list>
+    <app-manifest>
+      <uri>https://github.com/Infineon/mtb-bt-app-manifest/raw/v2.X/mtb-bt-app-manifest-fv2.xml</uri>
+    </app-manifest>
+  </app-manifest-list>
+  <middleware-manifest-list>
+    <middleware-manifest dependency-url="https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-dependencies-manifest.xml">
+      <uri>https://github.com/Infineon/mtb-bt-mw-manifest/raw/v2.X/mtb-bt-mw-manifest-fv2.xml</uri>
+    </middleware-manifest>
+  </middleware-manifest-list>
+</super-manifest>

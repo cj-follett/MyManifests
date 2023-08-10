@@ -1,0 +1,16 @@
+<dependencies>
+  <depender>
+    <id>MyBSP</id>
+    <versions>
+      <version>
+        <commit>1.0.0</commit>
+        <dependees>
+          <dependee>
+            <id>20820A1</id>
+            <commit>latest-v4.X</commit>
+          </dependee>
+        </dependees>
+      </version>
+    </versions>
+  </depender>
+</dependencies>

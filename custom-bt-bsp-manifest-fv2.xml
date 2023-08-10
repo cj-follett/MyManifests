@@ -1,0 +1,36 @@
+<boards>
+  <board>
+    <id>MyBSP</id>
+    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <board_uri>https://github.com/cj-follett/TARGET_MyBSP</board_uri>
+    <versions>
+      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
+        <num>3.3.0 release</num>
+        <commit>release-v3.3.0</commit>
+      </version>
+    <chips>
+      <mcu>CYBT-243053-02</mcu>
+      <radio>CYW20820A1</radio>
+    </chips>
+    <name>MyBSP</name>
+    <summary>Description goes here</summary>
+    <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_243053_EVAL</prov_capabilities>
+    <description><![CDATA[
+        <div class="category">Kit Features:</div><ul>
+        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (MyBSP)</li>
+        <li>Arduino compatible headers for hardware expansion</li>
+        <li>User switches and LEDs</li>
+        <li>FCC, ISED, MIC, and CE Certified Module on board (MyBSP)</li>
+        <li>USB connector for power, programming, and USB-UART bridge</li>
+        </ul><p/>
+        <div class="category">Kit Contents:</div><ul>
+        <li>MyBSP</li>
+        <li>USB Standard-A to Micro-B cable</li>
+        <li>Quick Start Guide</li>
+        </ul>
+        </body>
+        </html>
+    ]]></description>
+    <documentation_url>Path to document</documentation_url>
+  </board>
+</boards>
