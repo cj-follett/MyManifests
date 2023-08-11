@@ -1,64 +1,4 @@
 <boards>
-    <board>
-    <id>CYBT-243053-EVAL</id>
-    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
-    <board_uri>https://github.com/cypresssemiconductorco/TARGET_CYBT-243053-EVAL</board_uri>
-    <versions>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.3.0 release</num>
-        <commit>release-v3.3.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.2.0 release</num>
-        <commit>release-v3.2.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.1.0 release</num>
-        <commit>release-v3.1.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>3.0.0 release</num>
-        <commit>release-v3.0.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>2.9.0 release</num>
-        <commit>release-v2.9.0</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>Latest v3.X release</num>
-        <commit>latest-v3.X</commit>
-      </version>
-      <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
-        <num>Latest v2.X release</num>
-        <commit>latest-v2.X</commit>
-      </version>
-    </versions>
-    <chips>
-      <mcu>CYBT-243053-02</mcu>
-      <radio>CYW20820A1</radio>
-    </chips>
-    <name>CYBT-243053-EVAL</name>
-    <summary>The Infineon CYBT-243053-EVAL Evaluation Kit enables you to evaluate and develop single-chip Bluetooth&#174; applications using the EZ-BT AIROC&#8482; Module CYBT-243053-02. The CYBT-243053-02 EZ-BT AIROC&#8482; Module is an integrated, fully certified, 12.0 mm x 16.61 mm x 1.70 mm, programmable dual-mode Bluetooth&#174; module designed to reduce your time-to-market. The CYBT-243053-02 module utilizes the Infineon CYW20820 silicon device. Manufactured using advanced CMOS low-power process, the CYW20820 employs high integration to reduce external components, thereby minimizing the device's footprint and cost. This kit helps evaluate device functionality and develop applications quickly for faster time-to-market.</summary>
-    <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_243053_EVAL</prov_capabilities>
-    <description><![CDATA[
-        <div class="category">Kit Features:</div><ul>
-        <li>CYW20820-based dual-mode (LE/BR/EDR) Bluetooth&#174; 5.0-compliant fully certified module (CYBT-243053-02)</li>
-        <li>Arduino compatible headers for hardware expansion</li>
-        <li>User switches and LEDs</li>
-        <li>FCC, ISED, MIC, and CE Certified Module on board (CYBT-243053-02)</li>
-        <li>USB connector for power, programming, and USB-UART bridge</li>
-        </ul><p/>
-
-        <div class="category">Kit Contents:</div><ul>
-        <li>CYBT-243053-EVAL Evaluation board</li>
-        <li>USB Standard-A to Micro-B cable</li>
-        <li>Quick Start Guide</li>
-        </ul>
-        </body>
-        </html>
-    ]]></description>
-    <documentation_url>https://www.infineon.com/cms/en/product/evaluation-boards/cybt-243053-eval/</documentation_url>
-  </board>
   <board>
     <id>MyBSP</id>
     <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
@@ -75,6 +15,6 @@
     <name>MyBSP</name>
     <summary>Description goes here</summary>
     <prov_capabilities>ble br_edr mesh hid ota hal btsdk fw2 CYBT_243053_EVAL</prov_capabilities>
-    <description></description>
+    <description>Description goes here too</description>
   </board>
 </boards>
