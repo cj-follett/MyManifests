@@ -1,7 +1,7 @@
 <boards>
   <board>
     <id>MyBSP</id>
-    <category>AIROC&#8482; Bluetooth&#174; BSPs</category>
+    <category>My BSPs</category>
     <board_uri>https://github.com/cj-follett/TARGET_MyBSP</board_uri>
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
