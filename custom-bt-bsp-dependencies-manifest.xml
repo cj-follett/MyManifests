@@ -3,7 +3,7 @@
     <id>MyBSP</id>
     <versions>
       <version>
-        <commit>1.0.0</commit>
+        <commit>release_v1.0.0</commit>
         <dependees>
           <dependee>
             <id>20820A1</id>
