@@ -6,7 +6,7 @@
     <versions>
       <version tools_min_version="2.2.0" flow_version="2.0" prov_capabilities_per_version="bsp_gen2 btstack10 btsdk_empty_app hci_loopback spp btsdk_ota_app anc ans batc bats beacon findme helloc hellos hrc hrs lecoc adc gpio lowpower puart pwm dimmer dimmer_self_config embedded_provisioner light_dimmable light_smart low_power_led on_off_switch mesh_switch_smart mesh_snip" prefix="wiced_btsdk/dev-kit/bsp">
         <num>1.0.0 release</num>
-        <commit>release-v1.0.0</commit>
+        <commit>eda05c5</commit>
       </version>
     </versions>
     <chips>
